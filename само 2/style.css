@@ -1,0 +1,19 @@
+.menuitem {
+    display: inline-block;
+}
+.menu {
+    display: inline-block;
+    text-align: center;
+    width: 80%;
+}
+.menuli {
+    font-size: 15px;
+}
+.bdd {
+    border: 3px dashed black;
+    text-decoration: none;
+    width: 65px;
+}
+body {
+    background-color: rgb(179, 202, 236);
+}
